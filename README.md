@@ -91,7 +91,7 @@ W projekcie skonfigurowano pipeline CI/CD za pomocą GitHub Actions. Pipeline wy
 - **Linting i formatting**: Zapewnia czytelność i zgodność ze standardami kodowania.
 - **Conventional Commit**: Sprawdza zgodność commitów z konwencją Conventional Commit.
 
-## Testy obciążeniowe/Snapsho testing
+## Testy obciążeniowe/Snapshot testing
 
 W projekcie w folderze backend/LoadTests znajdują się testy obciążeniowe NBomber dla głównych endpointów aplikacji.
 Ponadto w folderze frontend, dla niektórych komponentów React zostały utworzone snapshot testy Jest. 
