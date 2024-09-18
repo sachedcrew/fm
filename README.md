@@ -10,9 +10,6 @@ Fleet Management App to aplikacja do zarządzania flotą samochodów, umożliwia
 - [Jak uruchomić projekt](#jak-uruchomić-projekt)
 - [Testowanie](#testowanie)
 - [CI/CD](#cicd)
-- [Dokumentacja](#dokumentacja)
-- [Badge](#badge)
-- [Kontakt](#kontakt)
 
 ## Opis
 
