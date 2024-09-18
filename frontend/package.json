@@ -39,6 +39,7 @@
   },
   "devDependencies": {
     "@testing-library/react": "^16.0.0",
+    "cypress": "^13.14.2",
     "jest": "^27.5.1"
   }
 }
