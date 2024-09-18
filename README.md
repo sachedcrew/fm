@@ -10,7 +10,7 @@ Fleet Management App to aplikacja do zarządzania flotą samochodów, umożliwia
 - [Jak uruchomić projekt](#jak-uruchomić-projekt)
 - [Testowanie](#testowanie)
 - [CI/CD](#cicd)
-- [Testy obciążeniowe NBomber](#loadtests)
+- [Testy obciążeniowe NBomber/Snapshot testing](#loadtests)
 - [Testy Cypress](#cypress)
 
 ## Opis
@@ -91,9 +91,10 @@ W projekcie skonfigurowano pipeline CI/CD za pomocą GitHub Actions. Pipeline wy
 - **Linting i formatting**: Zapewnia czytelność i zgodność ze standardami kodowania.
 - **Conventional Commit**: Sprawdza zgodność commitów z konwencją Conventional Commit.
 
-## Testy obciążeniowe
+## Testy obciążeniowe/Snapsho testing
 
 W projekcie w folderze backend/LoadTests znajdują się testy obciążeniowe NBomber dla głównych endpointów aplikacji.
+Ponadto w folderze frontend, dla niektórych komponentów React zostały utworzone snapshot testy Jest. 
 
 ## Testy Cypress
 
