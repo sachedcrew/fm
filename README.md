@@ -10,6 +10,7 @@ Fleet Management App to aplikacja do zarządzania flotą samochodów, umożliwia
 - [Jak uruchomić projekt](#jak-uruchomić-projekt)
 - [Testowanie](#testowanie)
 - [CI/CD](#cicd)
+- [Testy Cypress](#cypress)
 
 ## Opis
 
@@ -87,3 +88,8 @@ W projekcie skonfigurowano pipeline CI/CD za pomocą GitHub Actions. Pipeline wy
 - **Testy jednostkowe**: Uruchamiane automatycznie przy każdym pushu do repozytorium.
 - **Linting i formatting**: Zapewnia czytelność i zgodność ze standardami kodowania.
 - **Conventional Commit**: Sprawdza zgodność commitów z konwencją Conventional Commit.
+
+
+## Testy Cypress
+
+W projekcie w folderze frontend/cypress znajdują się testy automatyczne UI dla ścieżki logowania, rejestracji i podstawowych ścieżek CRUD aplikacji.
