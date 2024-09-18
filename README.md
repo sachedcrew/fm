@@ -30,6 +30,7 @@ Fleet Management App umożliwia zarządzanie flotą pojazdów, w tym dodawanie n
 - `frontend/` - Projekt frontendowy w React
 - `backend/` - Projekt backendowy w .NET (ASP.NET Core)
 - `FleetManagmentApp.Tests/` - Testy jednostkowe dla backendu
+- `frontend/cypress/` - Testy Cypress 
 
 ## Jak uruchomić projekt
 
